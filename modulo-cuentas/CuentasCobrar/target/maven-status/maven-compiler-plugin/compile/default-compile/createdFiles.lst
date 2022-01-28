@@ -1,0 +1,8 @@
+com\mycompany\cuentascobrar\Conexion.class
+com\mycompany\cuentascobrar\Mensaje.class
+com\mycompany\cuentascobrar\ActualizandoBD.class
+com\mycompany\cuentascobrar\Consumidor.class
+com\mycompany\cuentascobrar\Factura.class
+com\mycompany\cuentascobrar\Articulo.class
+com\mycompany\cuentascobrar\Productor.class
+.netbeans_automatic_build
